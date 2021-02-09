@@ -4,3 +4,4 @@
 - git add -N : sert à indexé un fichier 
 - git add : sert à créer un fichier et l'indexé en même temps
 - git push : sert à renvoyer nos modifications locales à une plateforme en ligne (remote) comme github
+- git push -u : git push avec -u indique un référence à ta branche locale qui va automatiquement pusher dans sa branche appropriée 
